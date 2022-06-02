@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🐥💛🌟👀✨🌈☀🔥🍋🍒🍰📒✏🟡
 
 <!--
 **Kang-SeoHyun/Kang-SeoHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
