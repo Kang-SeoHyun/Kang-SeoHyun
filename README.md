@@ -12,5 +12,5 @@
 ❓ ‼ ⁉ ⭕❌💯  
 💧💦
 </pre>
-### 🐥 [C_Pointer](https://github.com/Kang-SeoHyun/C_Language/tree/main/C_Pointer)  
-### 🐥 [C_Data_Structure](https://github.com/Kang-SeoHyun/C_Language/tree/main/C_Data_Structure)
+### 🎨 [C_Pointer](https://github.com/Kang-SeoHyun/C_Language/tree/main/C_Pointer)  
+### 🎨 [C_Data_Structure](https://github.com/Kang-SeoHyun/C_Language/tree/main/C_Data_Structure)
