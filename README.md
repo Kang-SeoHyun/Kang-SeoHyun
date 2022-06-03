@@ -1,6 +1,10 @@
 # 💛2022💛
 
-### HEY~ 👋
+## HEY~ 👋
+
+### 🎨 [C_Pointer](https://github.com/Kang-SeoHyun/C_Language/tree/main/C_Pointer)  
+### 🎨 [C_Data_Structure](https://github.com/Kang-SeoHyun/C_Language/tree/main/C_Data_Structure)  
+
 > 💧불쌍한 강서현,,이모티콘,, 복붙해서,, 쓰쟈,,💦
 <pre>
 🐥📒✏
@@ -12,5 +16,3 @@
 ❓ ‼ ⁉ ⭕❌💯  
 💧💦
 </pre>
-### 🎨 [C_Pointer](https://github.com/Kang-SeoHyun/C_Language/tree/main/C_Pointer)  
-### 🎨 [C_Data_Structure](https://github.com/Kang-SeoHyun/C_Language/tree/main/C_Data_Structure)
