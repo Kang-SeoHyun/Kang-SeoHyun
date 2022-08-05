@@ -6,8 +6,8 @@
 ### 🎨 [Java_Framework](https://github.com/Kang-SeoHyun/Java_Framework)
 ### 🎨 [HTTP_Study](https://github.com/Kang-SeoHyun/HTTP_Study)
 ### 🎨 [2022_hanium](https://github.com/Kang-SeoHyun/2022_hanium)
-### 🎨 [42_Course](https://github.com/Kang-SeoHyun/42_Course)
-
+### 🎨 [42_C_pisine](https://github.com/Kang-SeoHyun/42_C_pisine)
+### 🎨 [42_Cursus](https://github.com/Kang-SeoHyun/42_Cursus)
 
 > 💧이모티콘,, 복붙해서,, 쓰쟈,,💦
 <pre>
