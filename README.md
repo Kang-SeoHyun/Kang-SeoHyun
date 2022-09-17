@@ -8,19 +8,7 @@
 ### 🎨 [2022_hanium](https://github.com/Kang-SeoHyun/2022_hanium)
 ### 🎨 [42_C_pisine](https://github.com/Kang-SeoHyun/42_C_pisine)
 ### 🎨 [42_Cursus](https://github.com/Kang-SeoHyun/42_Cursus)
-
-> 💧이모티콘,, 복붙해서,, 쓰쟈,,💦
-<pre>
-window + .
-🐥📒✏
-🌟 <!-- ##자구에서 제목 --> ✨ <!-- ####알고리즘같은거 -->
-🌈☀🔥🎨🚦
-🍋🍒🍰🧀🍭
-🟡💛⚡  
-💪🏻💪🤙🏻🤙😭😢  
-❓ ‼ ⁉ ⭕❌💯  
-💧💦
-</pre>
+### 🎨 [42_Cursus](https://github.com/Kang-SeoHyun/42_Cursus)
 
 <!--
 C - 임베디드 하드웨어개발  
