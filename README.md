@@ -11,6 +11,7 @@
 ### 🎨 [42_C_pisine](https://github.com/Kang-SeoHyun/42_C_pisine)
 ### 🎨 [42_Cursus](https://github.com/Kang-SeoHyun/42_Cursus)
 ### 🤖 [python_object_class](https://github.com/Kang-SeoHyun/python_object_class)
+### 🤖 [algorism_study](https://github.com/Kang-SeoHyun/algorism_study)
 ### 🎃 [HTTP_Study](https://github.com/Kang-SeoHyun/HTTP_Study)
 
 <!--
