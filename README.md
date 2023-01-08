@@ -2,7 +2,7 @@
 
 # 💛2022💛
 
-## 👋 HEY~ 👋s
+## 👋 HEY~ 👋
 
 ### 👩🏻‍💻 [2022_hanium](https://github.com/Kang-SeoHyun/2022_hanium)
 ### 👩🏻‍💻 [Study_JAVA](https://github.com/Kang-SeoHyun/Study_JAVA)
