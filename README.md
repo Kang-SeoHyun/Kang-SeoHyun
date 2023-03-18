@@ -1,6 +1,26 @@
 ## 👋 HEY~ 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKang-SeoHyun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang-SeoHyun&&show_icons=true&count_private=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-SeoHyun&&layout=compact&theme=dracula)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/kang_sii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kang_sii" height="30" width="40" /></a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
