@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFD400&height=180&section=header&text=🌈%20Hello%20🌟&fontSize=45&fontColor=fffa66)
+![header](https://capsule-render.vercel.app/api?type=egg&color=FFD400&height=180&section=header&text=🌈%20Hello%20🌟&fontSize=45&fontColor=fffa66)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKang-SeoHyun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -9,6 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang-SeoHyun&show_icons=true&theme=great-gatsby)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-SeoHyun&&layout=compact&theme=great-gatsby)
 
+![Footer](https://capsule-render.vercel.app/api?type=soft&color=FFD400&height=100&section=footer&text=👋🏻%20I'm%20seohyun%20👩🏻‍💻&fontSize=20&fontColor=fffa66)
 
 
 
