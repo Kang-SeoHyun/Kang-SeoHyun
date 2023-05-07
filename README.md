@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=FFD400&height=180&section=header&text=🌈%20Hello%20🌟&fontSize=45&fontColor=fffa66)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKang-SeoHyun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kang_sii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kang_sii" height="30" width="40" /></a>
