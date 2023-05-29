@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=FFD400&height=180&section=header&text=🌈✨%20Hello%20🌟💫&fontSize=45&fontColor=fafad2)
+![header](https://capsule-render.vercel.app/api?type=egg&color=87ceeb&height=180&section=header&text=❄️🩵%20Hello%20🐬🫧&fontSize=45&fontColor=e0ffff)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,7 +10,7 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=soft&color=FFD400&height=100&section=footer&text=👋🏻%20I'm%20seohyun%20👩🏻‍💻&fontSize=20&fontColor=fafad2)
+![Footer](https://capsule-render.vercel.app/api?type=soft&color=ffd700&height=100&section=footer&text=👋🏻%20I'm%20seohyun%20👩🏻‍💻&fontSize=20&fontColor=fafad2)
 
 
 
