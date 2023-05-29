@@ -10,7 +10,7 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=soft&color=FFD400&height=100&section=footer&text=👋🏻%20I'm%20seohyun%20👩🏻‍💻&fontSize=20&fontColor=fffa66)
+![Footer](https://capsule-render.vercel.app/api?type=soft&color=FFD400&height=100&section=footer&text=👋🏻%20I'm%20seohyun%20👩🏻‍💻&fontSize=20&fontColor=fafad2)
 
 
 
