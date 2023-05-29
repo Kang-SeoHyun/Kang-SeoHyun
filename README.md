@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=FFD400&height=180&section=header&text=🌈✨%20Hello%20🌟💫&fontSize=45&fontColor=fffa66)
+![header](https://capsule-render.vercel.app/api?type=egg&color=FFD400&height=180&section=header&text=🌈✨%20Hello%20🌟💫&fontSize=45&fontColor=ffffe0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
