@@ -7,7 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-SeoHyun&&layout=compact&&theme=great-gatsby)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang-SeoHyun&&show_icons=true&&theme=great-gatsby)  
-(파이썬이 왜 이렇게 높게 뜰까용,,)
+<span style="color:#ffd33d">(파이썬이 왜 이렇게 높게 뜰까용,,)</span>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=soft&color=ffd700&height=100&section=footer&text=👋🏻%20I'm%20seohyun%20👩🏻‍💻&fontSize=20&fontColor=fafad2)
