@@ -6,7 +6,7 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-SeoHyun&&layout=compact&&theme=great-gatsby)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang-SeoHyun&&show_icons=true&&theme=great-gatsby)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang-SeoHyun&&show_icons=true&&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)  
 ```파이썬이 왜 이렇게 높게 뜰까용,,```
 
 
